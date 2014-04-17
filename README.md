@@ -115,7 +115,13 @@
 ★★★   | [Droplr Pro] | 分享文件，支持自定义短链域名和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
 ★★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
 
-#### 2.1 不断更新中...
+#### 1.4 不断更新中...
+
+## 2. 免费软件篇 (Mac OS)
+
+`Mac OS`平台下有众多优秀的软件工具。
+
+#### 1.1 效率工具类
 
 ## 购买建议
 
